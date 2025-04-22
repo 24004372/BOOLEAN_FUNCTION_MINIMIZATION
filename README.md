@@ -56,8 +56,10 @@ endmodule
 
 
 **RTL realization**
-![428277522-d813e0f3-5f62-4249-9bdf-fdaa16f94298](https://github.com/user-attachments/assets/e97513d5-d6e3-4f81-a0a3-0b6bb460420b)
-![Screenshot 2025-04-16 094507](https://github.com/user-attachments/assets/e454e885-1281-4c01-8f53-e9aab083d99b)
+![Screenshot 2025-04-22 101540](https://github.com/user-attachments/assets/bbee7228-c227-4e92-8771-bc5295566977)
+![Screenshot 2025-04-22 101602](https://github.com/user-attachments/assets/0b5c2406-1658-42f6-8e1f-71f1412f7fff)
+
+
 
 
 **Output:**
